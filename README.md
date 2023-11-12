@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Cian Herlihy - @CianHerlo
-- 👀 I’m interested in computer programming and building computers
-- 🌱 I’m currently learning about all things computer science as I am attending Munster Technological University studying Software Development
-- 💞️ I’m looking to collaborate on anything that furthers my knowledge in all directions
+- 👋 Hi, my name is Cian Herlihy - @CianHerlo
+- 👀 I’m interested in computer programming and building computers.
+- 🎓 I have recently graduated from MTU Cork with a distinction in BSc Software Development.
+- 🧑🏻‍🎓 I am still studying Software Development in MTU Cork for a BSc(Hons) Software Development.
+- 💞️ I’m looking to collaborate on anything that expands my knowledge in all aspects/topics.
 - 📫 How to reach me cianherlihy2+GitHubProfile@gmail.com
 
 <!---
